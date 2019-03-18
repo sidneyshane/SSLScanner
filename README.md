@@ -4,6 +4,6 @@ Dependencies:
   -Developed with support of Python 2/3.
 Use:
   -Download module and navigate inside SSLScanner folder.
-  -Inside scan.py put website domain under 'SERVER' and save changes.
-  -run: python3 scan.py
+  -Inside getsslreport.py put website domain under 'SERVER' and save changes.
+  -run: python3 getsslreport.py
     -Grade report for the server will then be reported to the terminal.
